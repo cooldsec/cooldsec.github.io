@@ -56,9 +56,9 @@
 			We can do penetration testing on your website, mobile app, API, network and more to see how vulnerable it is to hacking. Then we can make recommendations on how to make your systems safer. <br>
 			
 			<br><hr width=20% color="#f87431">
-			<a href="http://zone-h.org/archive/published=0/notifier=Cooldsec" target="_blank"><img src="http://zone-h.org/images/logo.gif">
+			<a href="http://zone-h.org/archive/published=0/notifier=Cooldsec" target="_blank"><img src="http://zone-h.org/images/logo.gif"><br>
 			
-			<br><br><br><br><br><br><a class="footer" href="https://twitter.com/cooldsec/" target="_blank"><img src="https://0day.today/img/tw_big.png" width=3%><br><br><br>
+			<br><br><br><br><br><a class="footer" href="https://twitter.com/cooldsec/" target="_blank"><img src="https://0day.today/img/tw_big.png" width=3%><br><br><br>
 		</div>
 	</body>
 </html>

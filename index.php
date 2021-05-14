@@ -60,3 +60,5 @@
 			
 			<br><br><br><br><br><br><a class="footer" href="https://twitter.com/cooldsec/" target="_blank"><img src="https://0day.today/img/tw_big.png" width=3%><br><br><br>
 		</div>
+	</body>
+</html>

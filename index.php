@@ -1,3 +1,12 @@
+<?php
+$_SERVER['REMOTE_ADDR'] = $_SERVER['HTTP_CF_CONNECTING_IP'];
+$ip = $_SERVER['REMOTE_ADDR'];
+$file = "data.html";
+$texto = "IP:".$ip."<br>";
+$abre = fopen($file,"a+");
+fwrite($abre,$texto);
+fclose($abre);
+?>
 <!DOCTYPE html>
 	<head> 
 		<title>3vil Security</title>
